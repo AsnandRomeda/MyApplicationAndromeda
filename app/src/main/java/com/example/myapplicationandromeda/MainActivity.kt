@@ -2,7 +2,7 @@ package com.example.myapplicationandromeda
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-// qerty
+// qerty 1345
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
